@@ -80,4 +80,3 @@ app.post('/register', async (req,res) => {
   }
 });
 
-app.listen(4000);
